@@ -1,0 +1,21 @@
+[submodule "SubjectSystems/Catena/catena-java"]
+	path = SubjectSystems/Catena/catena-java
+	url = https://github.com/medsec/catena-java
+[submodule "SubjectSystems/cpd/pmd"]
+	path = SubjectSystems/cpd/pmd
+	url = https://github.com/pmd/pmd
+[submodule "SubjectSystems/pmd/pmd"]
+	path = SubjectSystems/pmd/pmd
+	url = https://github.com/pmd/pmd
+[submodule "SubjectSystems/density-converter/density-converter"]
+	path = SubjectSystems/density-converter/density-converter
+	url = https://github.com/patrickfav/density-converter
+[submodule "SubjectSystems/h2/h2database"]
+	path = SubjectSystems/h2/h2database
+	url = https://github.com/h2database/h2database
+[submodule "SubjectSystems/prevayler/prevayler"]
+	path = SubjectSystems/prevayler/prevayler
+	url = https://github.com/prevayler/prevayler
+[submodule "SubjectSystems/sunflow/sunflow"]
+	path = SubjectSystems/sunflow/sunflow
+	url = https://github.com/fpsunflower/sunflow
