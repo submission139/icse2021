@@ -14,9 +14,6 @@ On this page we list the subject systems that we use to evaluate our approach. E
 | Prevayler | Database | 10,400 |    12 |  1.3&sdot;10<sup>5</sup>| 250 | 400 |
 | Sunflow   | Rendering engine | 201,125 |     6 |  5.4&sdot;10<sup>6</sup>| 125 | n/a |
 
-### Feature Tracing
-Here we show performance-relevant feature distributions at system-level and method-level.
-
 ### Profiled vs. Unprofiled
 We identified different patter for the influence of the profiler on the subject systems.
 
