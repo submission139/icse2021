@@ -14,6 +14,15 @@ On this page we list the subject systems that we use to evaluate our approach. E
 | Prevayler | Database | 9,067 |    12 |  1.3&sdot;10<sup>5</sup>| 250 | 400 |
 | Sunflow   | Rendering engine | 168,740 |     6 |  5.4&sdot;10<sup>6</sup>| 125 | n/a |
 
+
+### Feature Tracing
+Here we show performance-relevant feature distributions at system-level and method-level.
+
+#### Catena
+![Feature Performance Distribution Catena](feature-tracing/catena_bb.pdf)
+
+
+
 ### Profiled vs. Unprofiled
 We identified different patter for the influence of the profiler on the subject systems.
 
