@@ -4,15 +4,15 @@ On this page we list the subject systems that we use to evaluate our approach. E
 
 | System | Domain | LoC | &#124;F&#124; | &#124;C&#124; | &#124;C<sup>FW</sup>&#124; | &#124;C<sup>PW</sup>&#124; |
 | :---      | :--- | ---: | ---: | ---: | ---: | ---: |
-| Batik     | SVG rasterizer | 290,176 |  31 | 9.6&sdot;10<sup>4</sup>| 28 | 337 |
-| Catena    | Password hashing | 4,149 |   12 |  1.0&sdot;10<sup>9</sup>| 875 | 2625 |
-| cpd       | Copy-paste detector | 250,597 |     7 |  1.1&sdot;10<sup>4</sup>| 40 | 115 |
-| dc        | Image density converter | 6,633 |    24 |  3.4&sdot;10<sup>6</sup>| 1600 | 9700 |
-| H2        | Database | 297,623 |    16 | 6.5&sdot;10<sup>11</sup>| 375 | 2275 |
-| Kanzi     | Data compression | 20,620 |  40 | 4.3&sdot;10<sup>3</sup>| 34 | 458 |
-| pmd       | Source-code analyzer | 304,048 |    11 |  5.1&sdot;10<sup>2</sup>| 36 | 104 |
-| Prevayler | Database | 10,400 |    12 |  1.3&sdot;10<sup>5</sup>| 250 | 400 |
-| Sunflow   | Rendering engine | 201,125 |     6 |  5.4&sdot;10<sup>6</sup>| 125 | n/a |
+| Batik     | SVG rasterizer | 191,964 |  31 | 9.6&sdot;10<sup>4</sup>| 28 | 337 |
+| Catena    | Password hashing | 3,986 |   12 |  1.0&sdot;10<sup>9</sup>| 875 | 2625 |
+| cpd       | Copy-paste detector | 118,402 |     7 |  1.1&sdot;10<sup>4</sup>| 40 | 115 |
+| dc        | Image density converter | 4,821 |    24 |  3.4&sdot;10<sup>6</sup>| 1600 | 9700 |
+| H2        | Database | 250,983 |    16 | 6.5&sdot;10<sup>11</sup>| 375 | 2275 |
+| Kanzi     | Data compression | 20,297 |  40 | 4.3&sdot;10<sup>3</sup>| 34 | 458 |
+| pmd       | Source-code analyzer | 136,869 |    11 |  5.1&sdot;10<sup>2</sup>| 36 | 104 |
+| Prevayler | Database | 9,067 |    12 |  1.3&sdot;10<sup>5</sup>| 250 | 400 |
+| Sunflow   | Rendering engine | 168,740 |     6 |  5.4&sdot;10<sup>6</sup>| 125 | n/a |
 
 ### Profiled vs. Unprofiled
 We identified different patter for the influence of the profiler on the subject systems.
