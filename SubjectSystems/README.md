@@ -16,7 +16,7 @@ On this page we list the subject systems that we use to evaluate our approach. E
 
 
 ### Feature Tracing
-Here we show performance-relevant feature distributions at system-level and method-level.
+Here we show performance-relevant feature distributions at system-level. Background figure shows the distribution of all influential options and interactions (influence greater then the measurement error). Both small figures focuson the interactiongamma*garlic, which is the most influential option/interaction of the system-level model. The small left figure shows the number  of  methods  that  contribute  and  not  contribute  to  the interaction’s  performance.  The  small  right  figure  shows  the performance portion of these methods.
 
 #### Catena
 ![Feature Performance Distribution Catena](feature-tracing/RQ2_catena.png)
