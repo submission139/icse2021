@@ -19,7 +19,25 @@ On this page we list the subject systems that we use to evaluate our approach. E
 Here we show performance-relevant feature distributions at system-level and method-level.
 
 #### Catena
-![Feature Performance Distribution Catena](feature-tracing/catena_bb.pdf)
+![Feature Performance Distribution Catena](feature-tracing/RQ2_catena.png)
+
+#### CPD
+![Feature Performance Distribution CPD](feature-tracing/RQ2_cpd.png)
+
+#### Density-Converter
+![Feature Performance Distribution Density-Converter](feature-tracing/RQ2_density-converter.png)
+
+#### H2
+![Feature Performance Distribution H2](feature-tracing/RQ2_h2.png)
+
+#### PMD
+![Feature Performance Distribution PMD](feature-tracing/RQ2_pmd.png)
+
+#### Prevayler
+![Feature Performance Distribution Prevayler](feature-tracing/RQ2_prevayler.png)
+
+#### Sunflow
+![Feature Performance Distribution Sunflow](feature-tracing/RQ2_sunflow.png)
 
 
 
