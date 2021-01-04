@@ -1,0 +1,91 @@
+################################################################################
+Sunflow:
+################################################################################
+Time: 21.3s
+Maximum memory consumption: 544.850952 MB
+############## Option DIFFUSE results size 1
+
+############## STATS
+Number of results: 21
+
+BUSIZE -> 1
+REFLECTION -> 1
+THREADS -> 2
+OUTPUT -> 1
+RESOLUTION -> 16
+DIFFUSE -> 1
+REFRACTION -> 1
+
+Interaction order= 1 entries= 20
+Interaction order= 3 entries= 1
+
+################################################################################
+Density Converter:
+################################################################################
+Time: 16.4s
+Maximum memory consumption: 301.021576 MB
+############## Option DPI results size 13
+
+############## STATS
+Number of results: 17
+
+PLATFORM -> 12
+SCALETYPE -> 12
+UPSCALING -> 11
+COMPQUALITY -> 12
+DRYRUN -> 11
+SKIPFILES -> 11
+OUTCOMP -> 12
+SCALE -> 12
+ANTIALIASING -> 11
+DPI -> 11
+THREAD -> 12
+
+Interaction order= 1 entries= 6
+Interaction order= 11 entries= 11
+
+################################################################################
+Batik:
+################################################################################
+Time: 19.2s
+Maximum memory consumption: 309.247296 MB
+############## Option IMAGEJPE results size 1
+
+############## STATS
+Number of results: 88
+
+NARGS -> 81
+OPTVAL -> 1
+IMAGEPNG -> 1
+IMAGEJPEG -> 1
+OPTIONHANDLER -> 81
+DPI -> 1
+IMAGEJPE -> 1
+IMAGEPDF -> 1
+IMAGETIFF -> 1
+IMAGEJPG -> 1
+
+Interaction order= 1 entries= 7
+Interaction order= 2 entries= 80
+Interaction order= 3 entries= 1
+
+################################################################################
+Prevayler:
+################################################################################
+Time: 9.1s
+Maximum memory consumption: 277.190072 MB
+############## Option QUERYJDBC results size 29
+
+############## STATS
+Number of results: 40
+
+TRANSACTIONJDBC -> 24
+TRANSACTIONP -> 33
+QUERYJDBC -> 24
+QUERYP -> 29
+THREADSMAX -> 1
+THREADSMIN -> 1
+
+Interaction order= 1 entries= 14
+Interaction order= 2 entries= 4
+Interaction order= 4 entries= 22
